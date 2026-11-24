@@ -45,37 +45,8 @@ const NEGOCIOS = [
 
   },
 
-  {
 
-    nombre: "Farmacias Similares (Reforma)",
 
-    categoria: "Farmacias",
-
-    descripcion: "Medicamentos genéricos, suplementos y productos de higiene personal.",
-
-    telefono: "8009116666",
-
-    direccion: "Reforma 25, Col. Centro, 93980 Emilio Carranza, Ver.",
-
-    horario: "Lun a Sáb, 8:00 a 21:00; Dom, 8:00 a 20:00",
-
-  },
-
-  {
-
-    nombre: "Farmacias Similares (Hombres Ilustres)",
-
-    categoria: "Farmacias",
-
-    descripcion: "Medicamentos genéricos, vitaminas y material de curación.",
-
-    telefono: "",
-
-    direccion: "Hombres Ilustres 36, Col. Centro, 93980 Emilio Carranza, Ver.",
-
-    horario: "Lun a Sáb, 8:00 a 22:00; Dom, 8:00 a 21:00",
-
-  },
 
   {
 
@@ -94,6 +65,21 @@ const NEGOCIOS = [
   },
 
 
+  {
+
+    nombre: "Farmacias Similares (Hombres Ilustres)",
+
+    categoria: "Farmacias",
+
+    descripcion: "Medicamentos genéricos, vitaminas y material de curación.",
+
+    telefono: "",
+
+    direccion: "Hombres Ilustres 36, Col. Centro, 93980 Emilio Carranza, Ver.",
+
+    horario: "Lun a Sáb, 8:00 a 22:00; Dom, 8:00 a 21:00",
+
+  },
 
   // ==========================================
 
