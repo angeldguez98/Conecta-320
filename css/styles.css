@@ -529,3 +529,10 @@ body.modo-oscuro .boton-tema {
   border: 0;
   display: block;
 }
+
+@media (max-width: 599px) {
+  .contenedor-video-drive {
+    aspect-ratio: 1 / 1;
+    min-height: 300px;
+  }
+}
